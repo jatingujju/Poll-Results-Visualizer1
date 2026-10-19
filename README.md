@@ -66,11 +66,7 @@ streamlit run app.py            # launch the dashboard
 - Data quality check: 20 missing feedback entries found and handled; no duplicates or invalid ratings
 
 
-## 🖼️ Screenshots
-![Charts](images/dashboard_charts.png)
-![Word cloud](images/dashboard_wordcloud.png)
 
-## 👤 Author
 **Jatin Gujarathi** - student data analytics / AI builder
 🔗 [LinkedIn](https://www.linkedin.com/in/jatin-gujarathi-bb16a7221/) · 💻 [GitHub](https://github.com/jatingujju)
 
