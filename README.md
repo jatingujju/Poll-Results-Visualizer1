@@ -68,8 +68,7 @@ streamlit run app.py            # launch the dashboard
 ## 🖼️ Screenshots
 ![Dashboard](images/dashboard_overview.png)
 
-## 🔮 Future Improvements
-Live poll input form, more chart types, sentiment analysis on feedback, PDF report export, deployment on Streamlit Cloud.
-
 ## 👤 Author
-Jatin, a student data analytics / AI builder.
+**Jatin Gujarathi** - student data analytics / AI builder
+🔗 [LinkedIn](https://www.linkedin.com/in/jatin-gujarathi-bb16a7221/) · 💻 [GitHub](https://github.com/jatingujju)
+
