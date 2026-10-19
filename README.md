@@ -65,8 +65,10 @@ streamlit run app.py            # launch the dashboard
 - **72.8%** of respondents gave a high rating
 - Data quality check: 20 missing feedback entries found and handled; no duplicates or invalid ratings
 
+
 ## 🖼️ Screenshots
-![Dashboard](images/dashboard_overview.png)
+![Charts](images/dashboard_charts.png)
+![Word cloud](images/dashboard_wordcloud.png)
 
 ## 👤 Author
 **Jatin Gujarathi** - student data analytics / AI builder
